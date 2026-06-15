@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+
+.env
+
+eval_results/
+batch_requests/
+plots/
+svg_plots/
