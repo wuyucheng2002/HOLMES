@@ -1,0 +1,11 @@
+# Core
+requests>=2.31
+numpy>=1.24
+pandas>=2.0
+
+# Reasoning-trace evaluation (eval_reasoning_metrics.py)
+rouge-score>=0.1.2
+bert-score>=0.3.13
+sentence-transformers>=2.2.2
+# bert-score and sentence-transformers will pull in:
+#   torch, transformers, scikit-learn, tqdm — let pip resolve them.
