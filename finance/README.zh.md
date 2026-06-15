@@ -1,4 +1,4 @@
-# 复旦报销推理基准 (Fudan Reimbursement Reasoning Benchmark)
+# 金融领域 (Finance)
 
 围绕 *复旦大学财务报销规则* 构建的推理基准与评测工具链。
 评估大模型能否：(1) 根据自然语言场景描述判断是否准予报销，

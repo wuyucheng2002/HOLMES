@@ -1,4 +1,4 @@
-# Fudan Reimbursement Reasoning Benchmark
+# Finance 
 
 Benchmark and evaluation harness for testing whether LLMs can apply Fudan
 University's reimbursement rules to natural-language case descriptions and
