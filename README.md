@@ -197,7 +197,7 @@ python finance_reasoning_metrics.py
 If you use HOLMES or the code in this repo, please cite the paper:
 
 ```bibtex
-@article{holmes2026,
+@article{wu2026holmes,
   title  = {HOLMES: Evaluating Higher-Order Logical Reasoning in {LLM}s},
   author = {Yucheng Wu, Jundong Xu, Mingzhen Ju, Yue Yu, Chenpeng Wang, Haoxuan Li, Liangming Pan},
   year   = {2026}
