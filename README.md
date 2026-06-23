@@ -1,6 +1,6 @@
 # HOLMES — Higher-Order Logic Meets real-world Explainable Symbolic reasoning
 
-This repo accompanies the paper **“HOLMES: Evaluating Higher-Order Logical Reasoning in LLMs.”** It releases the **HOLMES** benchmark (1,379 instances across **law** and **finance**) together with two self-contained pipelines for evaluating LLMs on rule-application reasoning.
+This repo accompanies the paper [**“HOLMES: Evaluating Higher-Order Logical Reasoning in LLMs.”**](http://arxiv.org/abs/2606.23238) It releases the **HOLMES** benchmark (1,379 instances across **law** and **finance**) together with two self-contained pipelines for evaluating LLMs on rule-application reasoning.
 
 ## Table of contents
 
