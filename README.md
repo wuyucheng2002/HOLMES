@@ -198,9 +198,11 @@ If you use HOLMES or the code in this repo, please cite the paper:
 
 ```bibtex
 @article{wu2026holmes,
-  title  = {HOLMES: Evaluating Higher-Order Logical Reasoning in {LLM}s},
-  author = {Yucheng Wu, Jundong Xu, Mingzhen Ju, Yue Yu, Chenpeng Wang, Haoxuan Li, Liangming Pan},
-  year   = {2026}
+  title   = {HOLMES: Evaluating Higher-Order Logical Reasoning in {LLM}s},
+  author  = {Yucheng Wu, Jundong Xu, Mingzhen Ju, Yue Yu, Chenpeng Wang, Haoxuan Li, Liangming Pan},
+  journal = {arXiv preprint arXiv:2606.23238},
+  year    = {2026},
+  url     = {http://arxiv.org/abs/2606.23238}
 }
 ```
 
